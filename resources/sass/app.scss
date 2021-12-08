@@ -1,0 +1,18 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+
+/* @import 'variables';
+
+@import '~bootstrap/scss/bootstrap';
+
+
+@import "custom"; */
+
+@import '~hover.css/scss/hover';
+
+@include keyframes(my-animation) {
+    to {
+        color: red;
+    }
+}
